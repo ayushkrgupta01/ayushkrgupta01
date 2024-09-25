@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">🔧 Skilled in C++, Java.<br><br>🌱 I’m currently learning DSA.<br><br>📫 How to reach me: <a href>
-  "Akrgupta08@gmail.com"</a><br><br>⚡ Fun fact I'm also good at playing Free Fire Game.</p>
+<p align="left">🔧 Skilled in C++, Java.<br><br>🌱 I’m currently learning DSA.<br><br>📫 How to reach me: Akrgupta08@gmail.com<br><br>⚡ Fun fact I'm also good at playing Free Fire Game.</p>
 
 ###
 
