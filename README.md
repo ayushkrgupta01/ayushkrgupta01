@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔧 Skilled in C++, Java.<br><br>🌱 I’m currently learning DSA.<br><br>📫 How to reach me: 
+<p align="left">🔧 Skilled in Next.js, React.js, Express.js, Node.js, MongoDB, Tailwind Css.<br><br>🌱 I’m currently learning DSA.<br><br>📫 How to reach me: 
    <a href="mailto:akrgupta@gmail.com" target="_blank">Akrgupta08@gmail.com</a><br><br>⚡ Fun fact I'm also good at playing Free Fire Game.</p>
 
 ###
