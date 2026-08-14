@@ -27,7 +27,7 @@ I build across the stack, not just one of them — MERN and Next.js are home tur
 
 ### 💻 whoami
 
-\`\`\`bash
+```bash
 ayush@dev:~$ whoami
 Full Stack Developer — builds for the stack in front of him, not around it
 
@@ -40,7 +40,7 @@ ayush@dev:~$ echo $MOTTO
 ayush@dev:~$ ./deploy.sh --stack=any --framework=any
 ✔ Build succeeded
 ✔ Deployed across any stack you throw at me
-\`\`\`
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:4338CA&height=3&width=1000" width="100%" alt="divider" />
 
