@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:4338CA&height=90&width=1000&text=Your%20Technology%2C%20My%20Domination.&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" alt="motto" />
 
-<a href="https://ayush-portfolio-08.vercel.app/">
+<a href="https://akrgupta08.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+Spring+Boot+%7C+.NET+%7C+Python;Give+me+any+stack%2C+I'll+dominate+it;Currently+leveling+up+in+DSA" alt="Typing SVG" />
 </a>
 
