@@ -19,7 +19,7 @@ I build across the stack, not just one of them — MERN and Next.js are home tur
 - 🔭 Full Stack Developer at **SYSFO Software Solutions**
 - 🧠 Stack-agnostic — I pick the right tool for the job, not the other way around
 - 🌱 Currently sharpening **Data Structures & Algorithms**
-- 🌐 Portfolio: [ayush-portfolio-08.vercel.app](https://ayush-portfolio-08.vercel.app/)
+- 🌐 Portfolio: [akrgupta08.vercel.app](https://akrgupta08.vercel.app/)
 - ⚡ Fun fact: also dangerously good at Free Fire 🎮
 - 📍 Lucknow, Uttar Pradesh, India
 
@@ -76,7 +76,7 @@ A little game for my contribution graph — it eats its way through a year of co
   <a href="mailto:akrgupta08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://ayush-portfolio-08.vercel.app/">
+  <a href="https://akrgupta08.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
